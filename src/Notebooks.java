@@ -1,10 +1,10 @@
 public class Notebooks {
-    int RAM; // Oперативная память (ОЗУ)
-    int HDD; // объем жесткого диска
-    String Brand; //Марка
-    String OS; //Операционная система
-    String Colour; //Цвет
-    double Price; //Стоимость
+    int RAM;
+    int HDD;
+    String Brand;
+    String OS;
+    String Colour;
+    double Price;
 
 
 
